@@ -37,3 +37,28 @@ Getting started guide - https://www.google.com/url?sa=i&source=web&rct=j&url=htt
 
 ## Active recall
 <!-- Ian Gachengo will write this section -->
+**Active recall** is a study technique where you actively test yourself on material instead of passively rereading notes. Instead of looking at information repeatedly, you close your notes and try to retrieve the information from memory.
+
+For example, after studying a topic, you ask yourself questions about it without looking at your notes, then check your answers.
+
+This strengthens memory by forcing your brain to retrieve information — which improves long-term retention.
+
+### why learners should use this technique
+It strengthens memory more than rereading or highlighting.
+
+It reveals what you don’t know so you can focus on weak areas.
+
+It improves exam performance because exams require recall, not recognition.
+
+It builds deeper understanding through repeated self-testing.
+
+### how to get started
+Study a small section of material.
+
+Close your book or notes.
+
+Write down or say everything you remember.
+
+Check your answers and correct mistakes.
+
+Repeat until you can recall the material confidently.
