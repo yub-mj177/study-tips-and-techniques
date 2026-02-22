@@ -54,3 +54,29 @@ Richard Feynman on the Art of Learning.
 
 ## Active recall
 <!-- Ian Gachengo will write this section -->
+**Active recall** is a study technique where you actively test yourself on material instead of passively rereading notes. Instead of looking at information repeatedly, you close your notes and try to retrieve the information from memory.
+
+For example, after studying a topic, you ask yourself questions about it without looking at your notes, then check your answers.
+
+This strengthens memory by forcing your brain to retrieve information — which improves long-term retention.
+
+### why learners should use this technique
+- It strengthens memory more than rereading or highlighting.
+- It reveals what you don’t know so you can focus on weak areas.
+- It improves exam performance because exams require recall, not recognition.
+- It builds deeper understanding through repeated self-testing.
+
+### how to get started
+1. Study a small section of material.
+2. Close your book or notes.
+3. Write down or say everything you remember.
+4. Check your answers and correct mistakes.
+5. Repeat until you can recall the material confidently.
+
+### Useful links
+[What is Active Recall? – Ali Abdaal](https://www.youtube.com/watch?v=fDbxPVn02VU)
+[Evidence-Based Study Tips – Retrieval Practice (UNC Learning Center)](https://learningcenter.unc.edu/tips-and-tools/enhancing-your-learning-through-retrieval-practice/)
+[The Testing Effect – Learning Scientists](https://www.learningscientists.org/blog/2016/6/23-1)
+[Anki Documentation](https://docs.ankiweb.net/)
+
+
