@@ -34,6 +34,23 @@ Getting started guide - https://www.google.com/url?sa=i&source=web&rct=j&url=htt
 
 ## Feynman techniques
 <!-- Christine Wangari will write this section -->
+**The Feynman Technique** is a four step learning method designed to help you understand deep conceps by explaining them simply. It is named after the Nobel Prize-winning physicist Richard Feynman.
+
+### Uses to students.
+- It helps identify *holes* in your understanding of a topic.
+- It improves memory retention through active recall.
+- It forces you to simplify complex jargon into plain language
+- It is effective for any subject, from mathematics to history.
+
+### How to Get started.
+1. **Choose a concept** you want to learn and write its name at the top of the page.
+2. **Teach it to a toddler** by writing out an explanation.
+3. **Identify your gaps** in knowledge where you struggle to explain part clearly.
+4. **Review and simplify** your explanation using analogies and language.
+
+### Useful links
+The Feynman Technique: The Best Way to learn anything.
+Richard Feynman on the Art of Learning.
 
 ## Active recall
 <!-- Ian Gachengo will write this section -->
