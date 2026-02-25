@@ -79,4 +79,18 @@ This strengthens memory by forcing your brain to retrieve information — which 
 [The Testing Effect – Learning Scientists](https://www.learningscientists.org/blog/2016/6/23-1)
 [Anki Documentation](https://docs.ankiweb.net/)
 
-
+### Tactics on finding the best technique
+To find the most effective study tips, the best tactic is to focus on evidence-based learning strategies—techniques proven by cognitive science rather than traditional habits like passive reading or highlighting. 
+1. **High-Impact Scientific Techniques**
+Research consistently identifies these three methods as the most effective for long-term retention: 
+Active Recall: Instead of re-reading notes, test yourself by retrieving information from memory. Methods include using flashcards, "blurting" (writing everything you remember on a blank page), or taking practice tests.
+Spaced Repetition: Spread your study sessions over increasing intervals (e.g., 1 day, 3 days, 1 week) to combat the "forgetting curve".
+The Feynman Technique: Deepen your understanding by explaining a complex concept in simple terms, as if teaching a child, to identify gaps in your knowledge. 
+2. **Time Management & Focus**
+Pomodoro Technique: Work in focused 25-minute intervals followed by 5-minute breaks to maintain high concentration and prevent burnout.
+Interleaving: Mix different topics or subjects within a single study session rather than focusing on just one; this forces the brain to distinguish between different types of problems.
+Environment Optimization: Find several "study spots" to switch between; changing your environment can refresh your focus. 
+3. **Reliable Platforms & Communities**
+To discover new tips and specialized help, leverage these trusted resources:
+Academic Support Sites: The Learning Center (UNC) and Harvard's Academic Resource Center offer deep dives into effective study cycles.
+Specialized Study Tools: Use Quizlet for digital flashcards, Anki for automated spaced repetition, and Khan Academy for structured course reviews.
