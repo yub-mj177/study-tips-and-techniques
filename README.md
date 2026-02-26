@@ -4,7 +4,7 @@ discussing about different study tips and techniques
 A collaborative guide by mangale ngome, christine wangari and ian gachengo.
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [The Introduction](#introduction)
 - [Spaced repetition](#spaced-repetition)
 - [Feynman technique](#feynman-technique)
 - [Active recall](#active-recall)
